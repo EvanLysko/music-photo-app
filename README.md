@@ -7,3 +7,7 @@ The app uses Googles custom search API to retrieve images based off of the users
 It has dynamic styling and some simple but clean reactive design.
 
 It is hosted on vercel because github pages was emotionally abusing me.
+
+The framework is Next.js
+
+There are really only 2 main components, the track card, and the component to display the image grid
